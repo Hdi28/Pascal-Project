@@ -13,7 +13,7 @@ BEGIN
     write('Masukkan NIM  : ');readln(nim);
     writeln();
     writeln('=================================');
-    writeln('Nama Anda : ',nama);
-    writeln('NIM Anda  : ',nim);
+    writeln('Nama Anda Adalah : ',nama);
+    writeln('NIM Anda Adalah  : ',nim);
     readln();
 END.
